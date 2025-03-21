@@ -1,14 +1,13 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import { LanguageProvider } from './context/LanguageContext';
 import Navbar from './components/Navbar/Navbar';
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
+    <LanguageProvider>
       <Navbar />
-    </div>
+    </LanguageProvider>
   );
-}
+};
 
 export default App;
