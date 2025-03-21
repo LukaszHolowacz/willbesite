@@ -21,9 +21,6 @@ const Navbar = () => {
         <div className="collapse navbar-collapse" id="navbarNav">
           <ul className="navbar-nav me-auto mb-2 mb-lg-0 d-flex flex-row align-items-center gap-lg-4 gap-2">
             <li className="nav-item">
-              <a className="nav-link active" href="#">Strona główna</a>
-            </li>
-            <li className="nav-item">
               <a className="nav-link" href="#">O nas</a>
             </li>
             <li className="nav-item">
