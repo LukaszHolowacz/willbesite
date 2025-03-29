@@ -1,29 +1,72 @@
 .careers-container {
-    height: 100vh;
-    background: linear-gradient(-45deg, #1e3c72, #2a5298, #1e3c72, #2a5298);
-    background-size: 400% 400%;
-    animation: gradientAnimation 12s ease infinite;
+    min-height: calc(100vh - 70px);
+    background-color: #ffffff;
     display: flex;
     align-items: center;
     justify-content: center;
     text-align: center;
-    color: white;
-    padding: 0 20px;
-}
-
-.careers-content h1 {
-    font-size: 2.5rem;
+    padding: 40px 20px;
+  }
+  
+  .careers-content h1 {
+    font-size: 2.4rem;
+    color: #222222;
     margin-bottom: 1rem;
-}
-
-.careers-content p {
+    animation: fadeIn 0.8s ease-in-out;
+  }
+  
+  .careers-content p {
     font-size: 1.2rem;
-    opacity: 0.9;
-}
+    color: #555555;
+    margin-bottom: 2rem;
+    animation: fadeIn 1s ease-in-out;
+  }
+  
+  .careers-icons {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 25px;
+    margin-bottom: 2rem;
+    animation: fadeIn 1.2s ease-in-out;
+  }
+  
+  .careers-icons div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 2rem;
+    color: #333;
+  }
+  
+  .careers-icons span {
+    margin-top: 0.3rem;
+    font-size: 1rem;
+  }
+  
+  .apply-btn {
+    padding: 12px 24px;
+    font-size: 1rem;
+    background-color: #2a5298;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .apply-btn:hover {
+    background-color: #1e3c72;
+  }
 
-@keyframes gradientAnimation {
-    0% { background-position: 0% 50%; }
-    50% { background-position: 100% 50%; }
-    100% { background-position: 0% 50%; }
-}
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(10px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
   
