@@ -1,0 +1,31 @@
+{
+    "navbar": {
+      "home": "Inicio",
+      "about": "Sobre nosotros",
+      "services": "Servicios",
+      "contact": "Contacto",
+      "language": "Español",
+      "careers": "Carreras"
+    },
+    "home": {
+      "heading": "¡Bienvenido a nuestro sitio web!",
+      "subtext": "Creamos sitios web adaptados a tus necesidades."
+    },
+    "about": {
+      "heading": "¿Quiénes somos?",
+      "subtext": "Somos un equipo de entusiastas que aman programar y diseñar."
+    },
+    "services": {
+      "heading": "Nuestros servicios",
+      "subtext": "Ofrecemos desarrollo web, tiendas en línea y mucho más."
+    },
+    "contact": {
+      "heading": "Contáctanos",
+      "subtext": "Estamos encantados de responder tus preguntas y preparar una oferta."
+    },
+    "careers": {
+      "heading": "Aquí todavía no hay nada...",
+      "subtext": "¡Pero tal vez seas tú quien inicie el próximo capítulo con nosotros!"
+    }
+  }
+  

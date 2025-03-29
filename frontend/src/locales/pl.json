@@ -4,7 +4,28 @@
       "about": "O nas",
       "services": "Usługi",
       "contact": "Kontakt",
-      "language": "Polski"
+      "language": "Polski",
+      "careers": "Kariera"
+    },
+    "home": {
+      "heading": "Witamy na naszej stronie!",
+      "subtext": "Tworzymy strony internetowe dopasowane do Twoich potrzeb."
+    },
+    "about": {
+      "heading": "Kim jesteśmy?",
+      "subtext": "Jesteśmy zespołem pasjonatów, którzy kochają kodować i projektować."
+    },
+    "services": {
+      "heading": "Nasze usługi",
+      "subtext": "Oferujemy tworzenie stron WWW, sklepów internetowych i wiele więcej."
+    },
+    "contact": {
+      "heading": "Skontaktuj się z nami",
+      "subtext": "Chętnie odpowiemy na Twoje pytania i przygotujemy ofertę."
+    },
+    "careers": {
+      "heading": "Jeszcze tu nic nie ma...",
+      "subtext": "Ale może to właśnie Ty rozpoczniesz z nami nowy rozdział!"
     }
-}
+  }
   

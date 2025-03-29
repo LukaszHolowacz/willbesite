@@ -1,0 +1,31 @@
+{
+    "navbar": {
+      "home": "Startseite",
+      "about": "Über uns",
+      "services": "Leistungen",
+      "contact": "Kontakt",
+      "language": "Deutsch",
+      "careers": "Karriere"
+    },
+    "home": {
+      "heading": "Willkommen auf unserer Website!",
+      "subtext": "Wir erstellen Websites, die auf Ihre Bedürfnisse zugeschnitten sind."
+    },
+    "about": {
+      "heading": "Wer sind wir?",
+      "subtext": "Wir sind ein Team von Enthusiasten, die gerne programmieren und gestalten."
+    },
+    "services": {
+      "heading": "Unsere Leistungen",
+      "subtext": "Wir bieten Webentwicklung, E-Commerce-Lösungen und vieles mehr an."
+    },
+    "contact": {
+      "heading": "Kontaktieren Sie uns",
+      "subtext": "Gerne beantworten wir Ihre Fragen und erstellen ein individuelles Angebot."
+    },
+    "careers": {
+      "heading": "Hier gibt es noch nichts...",
+      "subtext": "Aber vielleicht sind Sie derjenige, der das nächste Kapitel mit uns beginnt!"
+    }
+  }
+  

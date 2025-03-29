@@ -6,12 +6,16 @@ import './Navbar.css';
 const flagIcons = {
   pl: "https://flagcdn.com/w40/pl.png",
   en: "https://flagcdn.com/w40/gb.png",
+  de: "https://flagcdn.com/w40/de.png",
+  es: "https://flagcdn.com/w40/es.png",
   ua: "https://flagcdn.com/w40/ua.png"
 };
 
 const languageNames = {
   pl: "Polski",
   en: "English",
+  de: "Deutsch",
+  es: "Español",
   ua: "Українська"
 };
 
@@ -36,16 +40,19 @@ const Navbar = () => {
         <div className="collapse navbar-collapse" id="navbarNav">
           <ul className="navbar-nav me-auto mb-2 mb-lg-0 d-flex flex-column flex-lg-row align-items-start align-items-lg-center gap-lg-4 gap-2">
             <li className="nav-item">
-              <a className="nav-link" href="#">{translations.navbar.home}</a>
+              <a className="nav-link" href="/">{translations.navbar.home}</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#">{translations.navbar.about}</a>
+              <a className="nav-link" href="/about">{translations.navbar.about}</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#">{translations.navbar.services}</a>
+              <a className="nav-link" href="/services">{translations.navbar.services}</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#">{translations.navbar.contact}</a>
+              <a className="nav-link" href="/contact">{translations.navbar.contact}</a>
+            </li>
+            <li className="nav-item">
+              <a className="nav-link" href="/careers">{translations.navbar.careers}</a>
             </li>
 
             <li className="nav-item dropdown d-lg-none">
