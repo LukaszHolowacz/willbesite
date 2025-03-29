@@ -20,11 +20,18 @@
       "subtext": "Oferujemy tworzenie stron WWW, sklepów internetowych i wiele więcej."
     },
     "contact": {
-      "heading": "Skontaktuj się z nami",
-      "subtext": "Chętnie odpowiemy na Twoje pytania i przygotujemy ofertę."
+        "heading": "Skontaktuj się z nami",
+        "subtext": "Chętnie odpowiemy na Twoje pytania i przygotujemy ofertę.",
+        "nameLabel": "Imię i nazwisko",
+        "namePlaceholder": "Wpisz swoje imię i nazwisko",
+        "emailLabel": "Adres e-mail",
+        "emailPlaceholder": "Wpisz swój e-mail",
+        "messageLabel": "Wiadomość",
+        "messagePlaceholder": "Wpisz swoją wiadomość",
+        "submitButton": "Wyślij wiadomość"
     },
     "careers": {
-      "heading": "Jeszcze tu nic nie ma...",
+      "heading": "Jeszcze nic tu nie ma...",
       "subtext": "Ale może to właśnie Ty rozpoczniesz z nami nowy rozdział!",
       "button": "Zgłoś się"
     }

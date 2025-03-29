@@ -1,4 +1,5 @@
 import React, { useContext } from 'react';
+import { Link } from 'react-router-dom';
 import { LanguageContext } from '../../context/LanguageContext';
 import './Careers.css';
 
@@ -29,9 +30,9 @@ const Careers = () => {
           </div>
         </div>
 
-        <button className="apply-btn">
-          {translations.careers.button}
-        </button>
+        <Link to="/contact" className="apply-btn">
+            {translations.careers.button}
+        </Link>
       </div>
     </div>
   );

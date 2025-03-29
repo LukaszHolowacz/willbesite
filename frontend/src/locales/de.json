@@ -20,8 +20,15 @@
       "subtext": "Wir bieten Webentwicklung, E-Commerce-Lösungen und vieles mehr an."
     },
     "contact": {
-      "heading": "Kontaktieren Sie uns",
-      "subtext": "Gerne beantworten wir Ihre Fragen und erstellen ein individuelles Angebot."
+        "heading": "Kontaktieren Sie uns",
+        "subtext": "Wir beantworten gerne Ihre Fragen und erstellen ein Angebot.",
+        "nameLabel": "Vollständiger Name",
+        "namePlaceholder": "Geben Sie Ihren vollständigen Namen ein",
+        "emailLabel": "E-Mail-Adresse",
+        "emailPlaceholder": "Geben Sie Ihre E-Mail-Adresse ein",
+        "messageLabel": "Nachricht",
+        "messagePlaceholder": "Geben Sie Ihre Nachricht ein",
+        "submitButton": "Nachricht senden"
     },
     "careers": {
       "heading": "Hier gibt es noch nichts...",

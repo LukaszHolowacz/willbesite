@@ -6,45 +6,45 @@
     justify-content: center;
     text-align: center;
     padding: 40px 20px;
-  }
-  
-  .careers-content h1 {
+}
+
+.careers-content h1 {
     font-size: 2.4rem;
     color: #222222;
     margin-bottom: 1rem;
     animation: fadeIn 0.8s ease-in-out;
-  }
-  
-  .careers-content p {
+}
+
+.careers-content p {
     font-size: 1.2rem;
     color: #555555;
     margin-bottom: 2rem;
     animation: fadeIn 1s ease-in-out;
-  }
-  
-  .careers-icons {
+}
+
+.careers-icons {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
     gap: 25px;
     margin-bottom: 2rem;
     animation: fadeIn 1.2s ease-in-out;
-  }
-  
-  .careers-icons div {
+}
+
+.careers-icons div {
     display: flex;
     flex-direction: column;
     align-items: center;
     font-size: 2rem;
     color: #333;
-  }
-  
-  .careers-icons span {
+}
+
+.careers-icons span {
     margin-top: 0.3rem;
     font-size: 1rem;
-  }
-  
-  .apply-btn {
+}
+
+.apply-btn {
     padding: 12px 24px;
     font-size: 1rem;
     background-color: #2a5298;
@@ -53,20 +53,20 @@
     border-radius: 6px;
     cursor: pointer;
     transition: background-color 0.3s ease;
-  }
-  
-  .apply-btn:hover {
-    background-color: #1e3c72;
-  }
+    text-decoration: none;
+}
 
-  @keyframes fadeIn {
+.apply-btn:hover {
+    background-color: #1e3c72;
+}
+
+@keyframes fadeIn {
     from {
-      opacity: 0;
-      transform: translateY(10px);
+        opacity: 0;
+        transform: translateY(10px);
     }
     to {
-      opacity: 1;
-      transform: translateY(0);
+        opacity: 1;
+        transform: translateY(0);
     }
-  }
-  
+}

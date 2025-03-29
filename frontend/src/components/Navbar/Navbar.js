@@ -1,4 +1,4 @@
-import React, { useContext } from 'react';
+import React, { useContext, useEffect, useState } from 'react';
 import { LanguageContext } from '../../context/LanguageContext';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './Navbar.css';
@@ -21,9 +21,19 @@ const languageNames = {
 
 const Navbar = () => {
   const { language, changeLanguage, translations } = useContext(LanguageContext);
+  const [isScrolled, setIsScrolled] = useState(false);
+
+  useEffect(() => {
+    const handleScroll = () => {
+      setIsScrolled(window.scrollY > 10);
+    };
+
+    window.addEventListener('scroll', handleScroll);
+    return () => window.removeEventListener('scroll', handleScroll);
+  }, []);
 
   return (
-    <nav className="navbar navbar-expand-lg navbar-light bg-white px-3">
+    <nav className={`navbar navbar-expand-lg navbar-light bg-white px-3 ${isScrolled ? 'scrolled' : ''}`}>
       <div className="container-fluid">
         <h1 className="navbar-brand mb-0">WillBeSite</h1>
         <button

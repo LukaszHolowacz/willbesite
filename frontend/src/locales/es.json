@@ -20,8 +20,15 @@
       "subtext": "Ofrecemos desarrollo web, tiendas en línea y mucho más."
     },
     "contact": {
-      "heading": "Contáctanos",
-      "subtext": "Estamos encantados de responder tus preguntas y preparar una oferta."
+        "heading": "Contáctanos",
+        "subtext": "Estaremos encantados de responder tus preguntas y preparar una oferta.",
+        "nameLabel": "Nombre completo",
+        "namePlaceholder": "Ingresa tu nombre completo",
+        "emailLabel": "Correo electrónico",
+        "emailPlaceholder": "Ingresa tu correo electrónico",
+        "messageLabel": "Mensaje",
+        "messagePlaceholder": "Escribe tu mensaje",
+        "submitButton": "Enviar mensaje"
     },
     "careers": {
       "heading": "Aquí todavía no hay nada...",

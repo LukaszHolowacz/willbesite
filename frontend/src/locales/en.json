@@ -20,8 +20,15 @@
       "subtext": "We offer website development, e-commerce and more."
     },
     "contact": {
-      "heading": "Get in touch",
-      "subtext": "We're happy to answer your questions and create an offer."
+        "heading": "Get in touch with us",
+        "subtext": "We’ll gladly answer your questions and prepare an offer.",
+        "nameLabel": "Full Name",
+        "namePlaceholder": "Enter your full name",
+        "emailLabel": "Email Address",
+        "emailPlaceholder": "Enter your email",
+        "messageLabel": "Message",
+        "messagePlaceholder": "Enter your message",
+        "submitButton": "Send Message"
     },
     "careers": {
       "heading": "There's nothing here yet...",
