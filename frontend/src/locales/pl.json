@@ -12,8 +12,13 @@
       "subtext": "Tworzymy strony internetowe dopasowane do Twoich potrzeb."
     },
     "about": {
-      "heading": "Kim jesteśmy?",
-      "subtext": "Jesteśmy zespołem pasjonatów, którzy kochają kodować i projektować."
+        "heading": "Kim jesteśmy?",
+        "subtext": "Poznaj naszą historię, wartości i podejście do projektów.",
+        "description1": "Jesteśmy WillBeSite – młodą, ambitną firmą tworzoną przez dwóch pasjonatów programowania: Kacpra (frontend) i Łukasza (backend). Choć dopiero rozkładamy skrzydła, nasza współpraca sięga czasów podstawówki – od tamtej pory trzymamy się razem i dziś wspólnie tworzymy projekty, które łączą estetykę z funkcjonalnością.",
+        "description2": "Nasza praca opiera się na dwustopniowym podejściu – każdy z nas skupia się na swojej specjalizacji, co pozwala nam działać szybciej, dokładniej i bez kompromisów. Dzięki temu każdy projekt dopracowany jest w najmniejszym detalu, od warstwy wizualnej po zaplecze techniczne.",
+        "description3": "Naszą ofertę kierujemy do każdego – od osób prywatnych, przez małe firmy, aż po duże przedsiębiorstwa. Niezależnie od skali, naszym celem jest odciążyć klienta w 100% – zajmujemy się wszystkim: od znalezienia serwera, przez stworzenie strony, aż po jej pozycjonowanie i dalsze wsparcie techniczne.",
+        "description4": "Wierzymy, że dobra strona internetowa to taka, po której użytkownik porusza się intuicyjnie. Minimalistyczna, nowoczesna i przejrzysta – bez zbędnych ozdobników, ale z charakterem. Tworzymy strony, które są nie tylko ładne, ale przede wszystkim funkcjonalne i skuteczne.",
+        "description5": "Naszą misją jest pomagać w rozwoju innych biznesów dzięki solidnemu zapleczu technologicznemu i kompleksowej obsłudze."
     },
     "services": {
         "heading": "Nasze usługi",
