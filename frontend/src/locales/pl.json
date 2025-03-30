@@ -16,8 +16,19 @@
       "subtext": "Jesteśmy zespołem pasjonatów, którzy kochają kodować i projektować."
     },
     "services": {
-      "heading": "Nasze usługi",
-      "subtext": "Oferujemy tworzenie stron WWW, sklepów internetowych i wiele więcej."
+        "heading": "Nasze usługi",
+        "subtext": "Dostarczamy kompleksowe rozwiązania dopasowane do Twojego biznesu.",
+        "webDevTitle": "Tworzenie stron WWW",
+        "webDevDesc": "Projektujemy responsywne i szybkie strony internetowe, które zachwycają użytkowników.",
+        "ecommerceTitle": "Sklepy internetowe",
+        "ecommerceDesc": "Budujemy nowoczesne sklepy e-commerce, które sprzedają.",
+        "designTitle": "Projektowanie graficzne",
+        "designDesc": "Tworzymy unikalne identyfikacje wizualne, logotypy i UI design.",
+        "seoTitle": "Pozycjonowanie i SEO",
+        "seoDesc": "Zadbamy o Twoją widoczność w wyszukiwarkach i ruch organiczny.",
+        "supportTitle": "Wsparcie techniczne",
+        "supportDesc": "Oferujemy stałą opiekę i szybkie reagowanie na potrzeby techniczne.",
+        "note": "Każda usługa jest wyceniana indywidualnie – skontaktuj się z nami, aby uzyskać wycenę."
     },
     "contact": {
         "heading": "Skontaktuj się z nami",
